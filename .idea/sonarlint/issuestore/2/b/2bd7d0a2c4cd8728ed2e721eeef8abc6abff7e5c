@@ -1,0 +1,15 @@
+
+^
+java:S1117o"<Rename "podColor" which hides the field declared at line 38.(ñçñÇùÿÿÿÿ8ý¸Ðè».
+P
+java:S1874§"2Remove this use of "invalidate"; it is deprecated.(ÑÂ’¾8ý¸Ðè».
+a
+java:S1117p"DRename "selectedPodColor" which hides the field declared at line 39.(ÿ‹êÃ8ý¸Ðè».
+`
+java:S1117m"CRename "mainSliderColor" which hides the field declared at line 37.(Ž÷á¸8ý¸Ðè».
+a
+java:S3398Ÿ">Move this method into the anonymous class declared at line 66.(ª«—½ûÿÿÿÿ8ý¸Ðè».
+\
+java:S3398¬">Move this method into the anonymous class declared at line 73.(ã…²á8ý¸Ðè».
+b
+java:S1117n"@Rename "numberOfPods" which hides the field declared at line 29.(”ù·‡ùÿÿÿÿ8ý¸Ðè».
