@@ -1,3 +1,5 @@
+[ ![Download](https://api.bintray.com/packages/atomsk752/PodSLider2/PodSLider2/images/download.svg?version=1.0.1) ](https://bintray.com/atomsk752/PodSLider2/PodSLider2/1.0.1/link)
+
 # PodSLider2
 
 본 프로젝트는 안드로이드의 탭레이아웃의 그래픽을 개선하는 라이브러리이며 기본적으로 [PodSlider](https://github.com/bhargavms/PodSLider)의 파생형입니다.  
