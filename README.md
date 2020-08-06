@@ -19,7 +19,6 @@ dependencies {
 }
 ```
 
-## 동작화면
 
 #### Xml 속성
 ```xml
